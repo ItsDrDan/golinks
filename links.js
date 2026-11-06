@@ -27,6 +27,13 @@ var LINKS = {
   "bondvoyage": "organicreactions/", "organicreactions": "organicreactions/",
   "carbs": "carbohydrates/", "carbohydrates": "carbohydrates/", "sugars": "carbohydrates/",
   "aminoacids": "aminoacids/", "peptides": "aminoacids/", "proteins": "aminoacids/",
+  "stereo": "stereochemistry/", "stereochemistry": "stereochemistry/", "mirror": "stereochemistry/", "mirrormatch": "stereochemistry/",
+  "ph": "pHcharge/", "phcharge": "pHcharge/", "charge": "pHcharge/",
+  "enzymes": "enzymes/", "enzyme": "enzymes/",
+  "lipids": "lipids/", "lipid": "lipids/", "fats": "lipids/",
+  "dna": "nucleicacids/", "rna": "nucleicacids/", "nucleicacids": "nucleicacids/", "helix": "nucleicacids/",
+  "metabolism": "metabolism/", "marathon": "metabolism/",
+  "labpractical": "labpractical/", "practical": "labpractical/", "lab": "labpractical/", "stations": "labpractical/",
   "final": "finalexam/", "finalexam": "finalexam/", "finalboss": "finalexam/"
 };
 (function () {
