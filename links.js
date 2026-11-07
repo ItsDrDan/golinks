@@ -37,7 +37,10 @@ var LINKS = {
   "final": "finalexam/", "finalexam": "finalexam/", "finalboss": "finalexam/",
   "mcat": "MCAT/", "premed": "MCAT/", "mcathub": "MCAT/",
   "pulse": "MCAT/practice.html", "premedpulse": "MCAT/practice.html", "mcatpractice": "MCAT/practice.html",
-  "mcatdaily": "MCAT/#/daily", "mcatplan": "MCAT/#/plan"
+  "mcatdaily": "MCAT/#/daily", "mcatplan": "MCAT/#/plan",
+  "teas": "teas/", "nursing": "teas/", "teashub": "teas/",
+  "scrubin": "teas/practice.html", "teaspractice": "teas/practice.html",
+  "teasdaily": "teas/#/daily", "teasplan": "teas/#/plan", "teascards": "teas/#/cards"
 };
 (function () {
   var key = location.pathname.replace(/^\/+|\/+$/g, "").toLowerCase();
