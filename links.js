@@ -34,7 +34,10 @@ var LINKS = {
   "dna": "nucleicacids/", "rna": "nucleicacids/", "nucleicacids": "nucleicacids/", "helix": "nucleicacids/",
   "metabolism": "metabolism/", "marathon": "metabolism/",
   "labpractical": "labpractical/", "practical": "labpractical/", "lab": "labpractical/", "stations": "labpractical/",
-  "final": "finalexam/", "finalexam": "finalexam/", "finalboss": "finalexam/"
+  "final": "finalexam/", "finalexam": "finalexam/", "finalboss": "finalexam/",
+  "mcat": "MCAT/", "premed": "MCAT/", "mcathub": "MCAT/",
+  "pulse": "MCAT/practice.html", "premedpulse": "MCAT/practice.html", "mcatpractice": "MCAT/practice.html",
+  "mcatdaily": "MCAT/#/daily", "mcatplan": "MCAT/#/plan"
 };
 (function () {
   var key = location.pathname.replace(/^\/+|\/+$/g, "").toLowerCase();
